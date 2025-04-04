@@ -1,6 +1,8 @@
 package Lab3;
 
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.Set;
 
 public class Task10 {
     public static void main(String[] args) {
